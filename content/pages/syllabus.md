@@ -62,18 +62,177 @@ Grading in this course is pass/fail and will be based on regular participation i
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Cellular correlates of memory and memory erasure: Long-term potentiation (LTP) and long-term depression (LTD) of synaptic strength | &nbsp; |
-| 3 | The NMDA receptor, a gatekeeper for synaptic plasticity | &nbsp; |
-| 4 | Making silent synapses talk: Activation of the NMDA receptor recruits AMPA-type glutamate receptors to synaptic sites | &nbsp; |
-| 5 | AMPA receptor endocytosis as a key mechanism for regulating synaptic strength | &nbsp; |
-| 6 | Metabotropic glutamate receptors (mGluRs) are potent mediators of long-term synaptic depression(LTD) | &nbsp; |
-| 7 | Synaptic scaling as a mechanism to globally tune synapse strength | &nbsp; |
-| 8 | Neurite outgrowth: constructing elaborate neuronal circuits | The written proposal (midterm assignment) for future scientific research is due |
-| 9 | Synaptogenesis | &nbsp; |
-| 10 | Field trip to the [Eli and Edythe L. Broad Institute](http://www.broadinstitute.org/) and the [Nedivi Lab](http://web.mit.edu/picower/faculty/nedivi.html) | &nbsp; |
-| 11 | Activity-induced synapse turnover | &nbsp; |
-| 12 | Activity-regulated gene expression in neurons | Paper selection for oral presentation due |
-| 13 | Final assignment and closing remarks | Oral presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Cellular correlates of memory and memory erasure: Long-term potentiation (LTP) and long-term depression (LTD) of synaptic strength
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The NMDA receptor, a gatekeeper for synaptic plasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Making silent synapses talk: Activation of the NMDA receptor recruits AMPA-type glutamate receptors to synaptic sites
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+AMPA receptor endocytosis as a key mechanism for regulating synaptic strength
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Metabotropic glutamate receptors (mGluRs) are potent mediators of long-term synaptic depression(LTD)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Synaptic scaling as a mechanism to globally tune synapse strength
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Neurite outgrowth: constructing elaborate neuronal circuits
+{{< tdclose >}}
+{{< tdopen >}}
+The written proposal (midterm assignment) for future scientific research is due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Synaptogenesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the [Eli and Edythe L. Broad Institute](http://www.broadinstitute.org/) and the [Nedivi Lab](http://web.mit.edu/picower/faculty/nedivi.html)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Activity-induced synapse turnover
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Activity-regulated gene expression in neurons
+{{< tdclose >}}
+{{< tdopen >}}
+Paper selection for oral presentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final assignment and closing remarks
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
